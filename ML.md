@@ -13,3 +13,20 @@
 - [ ] Decision Trees
 - [ ] SVM
 - [ ] Naive Bayes
+
+## Ensemble Methods
+- [ ] Random Forest
+- [ ] Gradient Boosting
+- [ ] XGBoost / LightGBM
+
+## Unsupervised Learning
+- [ ] K-Means
+- [ ] Hierarchical Clustering
+- [ ] DBSCAN
+- [ ] PCA
+
+## Model Evaluation
+- [ ] Train/Test Split & Cross Validation
+- [ ] Metrics
+- [ ] Bias-Variance Tradeoff
+- [ ] Hyperparameter Tuning
