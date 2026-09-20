@@ -11,3 +11,15 @@
 ## Frameworks
 - [ ] PyTorch
 - [ ] TensorFlow / Keras
+
+## Architectures
+- [ ] CNN
+- [ ] RNN
+- [ ] LSTM / GRU
+- [ ] Transformers
+- [ ] Autoencoders
+- [ ] GANs
+
+## Advanced
+- [ ] Transfer Learning
+- [ ] Fine-Tuning
