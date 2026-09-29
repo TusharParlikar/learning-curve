@@ -10,3 +10,11 @@
 - [ ] Bag of Words
 - [ ] TF-IDF
 - [ ] Word2Vec / GloVe
+
+## Models & Tasks
+- [ ] Text Classification
+- [ ] Named Entity Recognition
+- [ ] Sentiment Analysis
+- [ ] Seq2Seq & Attention
+- [ ] BERT / GPT
+- [ ] Hugging Face Transformers
