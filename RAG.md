@@ -6,3 +6,10 @@
 - [ ] Embeddings
 - [ ] Vector Databases (FAISS, Chroma, Pinecone)
 - [ ] Retrieval & Generation
+
+## Advanced
+- [ ] Hybrid Search
+- [ ] Re-ranking
+- [ ] Query Rewriting
+- [ ] Agentic RAG
+- [ ] RAG Evaluation
